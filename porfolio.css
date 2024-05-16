@@ -117,13 +117,13 @@ p {
 }
 
 .logo {
-    max-height: 40px;
+    max-height: 15px;
     font-size: 30px;
     font-weight: bold;
 }
 
 nav {
-    padding: 20px 0;
+    padding: 14px 0;
 }
 
 nav ul {
@@ -214,7 +214,7 @@ footer {
         font-size: 12px;
     }
     .logo {
-        font-size: 20px;
+        font-size: 15px;
     }
 
 }
